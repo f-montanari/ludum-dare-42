@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office Builder (LDJAM42)", "Assembly-CSharp.csproj", "{190592D1-27DF-874A-A80B-247F92E80E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Office Builder (LDJAM42)", "Assembly-CSharp-Editor.csproj", "{A37C07C8-4315-BDF5-5857-272D41348DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190592D1-27DF-874A-A80B-247F92E80E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190592D1-27DF-874A-A80B-247F92E80E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190592D1-27DF-874A-A80B-247F92E80E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190592D1-27DF-874A-A80B-247F92E80E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37C07C8-4315-BDF5-5857-272D41348DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37C07C8-4315-BDF5-5857-272D41348DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37C07C8-4315-BDF5-5857-272D41348DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37C07C8-4315-BDF5-5857-272D41348DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
